@@ -1,5 +1,2 @@
 service:
  name: 202135760 김현지
-logging:
-  level:
-    root: warn
